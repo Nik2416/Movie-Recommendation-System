@@ -5,7 +5,7 @@ The application recommends movies similar to the movie selected by the user base
 
 ## 🚀 Live Demo
 
-🔗 Coming soon...
+🔗 (https://movie-recommendation-system-nik24.streamlit.app/)
 
 ## 📌 Project Overview
 
